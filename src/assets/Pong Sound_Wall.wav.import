@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dsgynd6l3jcs4"
+path="res://.godot/imported/Pong Sound_Wall.wav-e86b585d2d47b085b67955cf9564e53d.sample"
+
+[deps]
+
+source_file="res://assets/Pong Sound_Wall.wav"
+dest_files=["res://.godot/imported/Pong Sound_Wall.wav-e86b585d2d47b085b67955cf9564e53d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
